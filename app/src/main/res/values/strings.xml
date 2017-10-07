@@ -4,4 +4,7 @@
     <string name="title_activity_login">Inicio Sesión</string>
     <string name="login_textHint_correoElectronico">Correo Electronico</string>
     <string name="login_textHint_password">Contraseña</string>
+    <string name="login_text_error_is_empty_email">Ingrese email</string>
+    <string name="login_text_error_is_empty_password">Ingrese contraseña</string>
+    <string name="login_text_error_is_valid_email">Correo invalido</string>
 </resources>
